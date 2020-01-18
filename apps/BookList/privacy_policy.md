@@ -1,4 +1,4 @@
-## Privacy Policy
+## BookList Privacy Policy
 
 Toshinori Chiba built the BookList app as a Free app. This SERVICE is provided by Toshinori Chiba at no cost and is intended for use as is.
 
