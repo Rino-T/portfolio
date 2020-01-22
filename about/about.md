@@ -20,10 +20,9 @@
 ## アプリとか
 
 ### リリース済み
-* [BookList - iOS App](../apps/BookList/BookList.md)
 
-### 準備中
-* IF THEN RULE
+* [BookList - iOS App](../apps/BookList/BookList.md)
+* [IF THEN RULE](../apps/IF_THEN_RULE/IF_THEN_RULE.md)
 
 ## リンク
 
