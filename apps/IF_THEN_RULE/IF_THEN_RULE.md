@@ -5,7 +5,7 @@
 
 <dl>
   <dt>Android</dt>
-  <dd><a href="https://play.google.com/store/apps/details?id=net.deshiapp.if_then_app"><img src="../../assets/images/google-play-badge.png" width=25% /></a></dd>
+  <dd><a href="https://play.google.com/store/apps/details?id=net.deshiapp.if_then_app"><img src="../../assets/images/google-play-badge.png" width=20% /></a></dd>
   <dt>iOS</dt>
   <dd><a href="https://apps.apple.com/jp/app/id1495975400"><img src="../../assets/images/Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg"></img></dd>
 </dl>
